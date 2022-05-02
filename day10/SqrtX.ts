@@ -1,4 +1,4 @@
-function mySqrt(x: number): number {
+function mySqrt2(x: number): number {
   let left = 0;
   let right = x;
   
